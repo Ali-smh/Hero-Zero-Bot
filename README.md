@@ -9,6 +9,7 @@ Don't forget to change the following parameters in the bot.py file:
 - URL (the request url)
 - origin (in DEFAULT_HEADERS)
 - referer (in DEFAULT_HEADERS)
+- user_id (in DEFAULT_BODY)
 - user_session_id (in DEFAULT_BODY. Changes at each login)
 - auth (in DEFAULT_BODY. Changes at each refresh of the page but no need to change it)
 
