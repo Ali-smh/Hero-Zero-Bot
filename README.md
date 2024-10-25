@@ -1,4 +1,4 @@
-# Hero-Zero-Bot
+# Hero-Zero-Bot (1.0)
 ## A multi-functional bot that allows you to automate your hero's progression.
 
 ![alt text](https://ragezone.com/wp-content/uploads/2017/01/maxresdefault-2.jpg)
